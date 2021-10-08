@@ -1,0 +1,7 @@
+com/serverless/dal/DynamoDBAdapter.class
+com/serverless/dal/Mutant.class
+com/serverless/ApiGatewayResponse$Builder.class
+com/serverless/StatsHandler.class
+com/serverless/MutantHandler.class
+com/serverless/Response.class
+com/serverless/ApiGatewayResponse.class
