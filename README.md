@@ -14,8 +14,14 @@ Serverless framework
 https://www.serverless.com/framework/docs/providers/aws/guide/quick-start/
 
 # Services:
+STATS
+
 curl  -X GET https://a7xmzzm11k.execute-api.us-east-1.amazonaws.com/dev/stats 
+
+MUTANT
+
 curl -v -X POST https://a7xmzzm11k.execute-api.us-east-1.amazonaws.com/dev/mutant -d '{ "adn": "['ATGCGA','CAGTGC','TTATGT','AGAATG','CCTCTA','TCACTA']"}'
+
 
 # **Nivel 1:**
 Programa (en cualquier lenguaje de programación) que cumpla con el método pedido por Magneto.
